@@ -17,9 +17,9 @@ Notez le soigneusement car celui-ci disparaîtra lorsque vous essayerez d’y ac
 #>
 
 # Variables
-$baererToken = "2027689-o9kGz5a6XYATzIyJvgrsuQ" #eg. 2027689-o9kGz5a6XYATzIyJvgrsuQ
+$baererToken = "xxxxxxxxxxxxx" #eg. 2027689-o9kGz5fghi89456
 $yammerBaseUrl = "https://www.yammer.com/api/v1"
-$GroupId = "10128859136"  #eg. 1234556
+$GroupId = "xxxxxxxxxxxxx"  #eg. 1234556
 
 # Function Get-BaererToken
 Function Get-BaererToken()

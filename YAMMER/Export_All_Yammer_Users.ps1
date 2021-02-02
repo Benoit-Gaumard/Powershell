@@ -3,8 +3,8 @@
 ###############################################################################
 
 # Variables
-$baererToken = "YourBaererToken"
-$yammerBaseUrl = "https://www.yammer.com/api/v1"
+$baererToken = "YourBaererToken" #eg. 2027689-o9kGz5fghi89456
+$yammerBaseUrl = "https://www.yammer.com/api/v1" #eg. 1234556
 
 # Function Get-BaererToken
 Function Get-BaererToken()
